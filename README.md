@@ -6,6 +6,8 @@ Plan / Design and Build a fully fledge game
 When player moves around for fluid movement have an animation between the directions soo that in the script it will check when the current moving key is swapped to another allow animation delay to face the key direction.
 Wise Owl as a guide.
 
+Start with sword for modeling
+
 
 ## Stage 1 - Pre-Production
 - What is the game about?

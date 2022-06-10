@@ -5,10 +5,13 @@ Plan / Design and Build a fully fledge game
 ## STAGE 0 - BrainStorm
 When player moves around for fluid movement have an animation between the directions soo that in the script it will check when the current moving key is swapped to another allow animation delay to face the key direction.
 Wise Owl as a guide.
+Bounty Hunting Dead or Alive Choice. Morale - More later development
 
-Start with sword for modeling
-
-
+- Start with sword for modeling
+- Create simple character Model and learn how to animate them together
+- Learn particle effect for Summoning Swords i.e when left click is press give a couple of seconds to summon a sword / insta sword summon.
+- Create simple AI which will chase after player.
+- 
 ## Stage 1 - Pre-Production
 - What is the game about?
   - 3rd Person Game involving Hooded Wandering Swords man.
